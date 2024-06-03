@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469014140224",
+    "project_id": "kopma-uin-suka-2003",
+    "storage_bucket": "kopma-uin-suka-2003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469014140224:android:4f782f274475568f1f96a5",
+        "android_client_info": {
+          "package_name": "com.example.kopma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3_0Y7tQNR4NFQZ-Ytun5zSdrvy-4a6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
